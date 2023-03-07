@@ -11,4 +11,4 @@ SCRIPT = 'PASTEBIN-LINK'; Path can be either a web URL: for example, you can sto
 
 
 # Overtake Script
-![image](https://i.imgur.com/ptDXXQw.png)
+![image](https://i.imgur.com/bWNJigV.png)
