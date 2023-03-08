@@ -10,7 +10,8 @@ SCRIPT = 'PASTEBIN-LINK'; Path can be either a web URL: for example, you can sto
 ```
 
 # ToDo
-Leaderboard for Overtake Script with Discord Webhook
+- Leaderboard for Overtake Script with Discord Webhook
+- Disable / Enable with Keybind the Overtake Menu
 
 # Overtake Script
 ![image](https://i.imgur.com/bWNJigV.png)
